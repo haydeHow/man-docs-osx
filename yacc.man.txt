@@ -1,0 +1,12 @@
+YACC(1)                     General Commands Manual                    YACC(1)
+
+NAME
+     yacc – parser generator
+
+DESCRIPTION
+     On Darwin, yacc is a wrapper for bison(1), equivalent to bison -y.
+
+SEE ALSO
+     bison(1)
+
+Darwin                            May 8, 2005                           Darwin
